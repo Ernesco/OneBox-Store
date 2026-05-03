@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nombre": "Stremio",
+    "version": "1.2.0",
+    "descripcion": "Reproduce peliculas y series en un solo lugar. Compatible con addons de contenido gratuito.",
+    "categoria": "Streaming",
+    "tamano": "42 MB",
+    "icono": "🎬",
+    "color": "#1a1a2e",
+    "url_apk": "https://drive.google.com/uc?export=download&id=REEMPLAZAR_CON_ID_DE_DRIVE",
+    "nuevo": false
+  },
+  {
+    "id": 2,
+    "nombre": "Tivimate",
+    "version": "4.7.0",
+    "descripcion": "El mejor reproductor IPTV para Android TV. Soporte de listas M3U y EPG.",
+    "categoria": "Streaming",
+    "tamano": "28 MB",
+    "icono": "📺",
+    "color": "#1e3a5f",
+    "url_apk": "https://drive.google.com/uc?export=download&id=REEMPLAZAR_CON_ID_DE_DRIVE",
+    "nuevo": false
+  },
+  {
+    "id": 3,
+    "nombre": "RetroArch",
+    "version": "1.16.0",
+    "descripcion": "Emulador de videojuegos retro todo en uno. Soporta SNES, NES, PS1 y mas.",
+    "categoria": "Juegos",
+    "tamano": "95 MB",
+    "icono": "🎮",
+    "color": "#2d1b4e",
+    "url_apk": "https://drive.google.com/uc?export=download&id=REEMPLAZAR_CON_ID_DE_DRIVE",
+    "nuevo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Spotify",
+    "version": "8.9.0",
+    "descripcion": "Musica, podcasts y mas. Version para TV Box.",
+    "categoria": "Musica",
+    "tamano": "67 MB",
+    "icono": "🎵",
+    "color": "#1a3d2e",
+    "url_apk": "https://drive.google.com/uc?export=download&id=REEMPLAZAR_CON_ID_DE_DRIVE",
+    "nuevo": false
+  }
+ {
+    "id": 5,
+    "nombre": "Urban VPN Full",
+    "version": "1.0.0",
+    "descripcion": "Descripcion corta de la app.",
+    "categoria": "Streaming",
+    "tamano": "12,1 MB",
+    "icono": "🎯",
+    "color": "#1a1a2e",
+    "url_apk": "https://drive.google.com/file/d/1fSLyNaqhTLwjKNv8CkKjileXbGGOAOa2/view?usp=sharing",
+    "nuevo": true
+  }
+
+]
